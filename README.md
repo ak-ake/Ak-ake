@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Akib — Developer, Linux Power User & Open Source Builder</h1>
+<h1 align="center">🔥 Akib — Developer, Linux Power User & Open Source Contributor/Builder</h1>
 <p align="center">
   <b>Python Developer • Web & Game Dev Learner • Linux Enthusiast</b>
 </p>
